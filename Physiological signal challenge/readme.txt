@@ -8,10 +8,10 @@
 % DIRECTORY STRUCTURE:
                Root
                   |
-		              notebooks
-			                  |
+		  notebooks
+	          |
                         		  
-		              codes
+		  codes
                         |
                         (*.py)
                   model (tensorflow chckpoint)
@@ -19,13 +19,13 @@
                         (*.index)
                         (*.data)
                         (*.meta)
-		              training_set
+		  training_set
                         |
-	                      (*.mat)
+	                (*.mat)
                         (*.csv)
                   validation_set
                         |
-	                      (*.mat)
+	                (*.mat)
                         (*.csv)
                   note.txt
                   cpsc2018.py
